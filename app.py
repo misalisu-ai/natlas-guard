@@ -72,7 +72,7 @@ custom_css = """
 #status-box { padding: 12px; border-radius: 8px; margin-top: 8px; font-weight: 500; }
 """
 
-with gr.Blocks(title="HausaCare Voice - AMGScale AI") as demo:
+with gr.Blocks(css=custom_css, title="HausaCare Voice - AMGScale AI") as demo:
     gr.Markdown(
         """
         # 🎙️ HausaCare Voice
@@ -108,4 +108,4 @@ with gr.Blocks(title="HausaCare Voice - AMGScale AI") as demo:
     )
 
 if __name__ == "__main__":
-    demo.queue().launch(share=True, css=custom_css)
+    demo.queue().launch()
