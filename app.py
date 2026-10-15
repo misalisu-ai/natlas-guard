@@ -1,3 +1,9 @@
+import spaces
+
+@spaces.GPU
+def _zerogpu_healthcheck():
+    return True
+
 import sys, os
 sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 sys.path.insert(0, os.path.join(os.path.abspath(os.path.dirname(__file__)), "src"))
