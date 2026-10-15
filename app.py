@@ -108,4 +108,4 @@ with gr.Blocks(css=custom_css, title="HausaCare Voice - AMGScale AI") as demo:
     )
 
 if __name__ == "__main__":
-    demo.queue().launch()
+    demo.queue().launch(server_name="0.0.0.0", server_port=7860, show_api=False)
