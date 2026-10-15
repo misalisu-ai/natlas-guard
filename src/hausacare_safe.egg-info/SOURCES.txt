@@ -1,0 +1,6 @@
+pyproject.toml
+src/hausacare_safe.egg-info/PKG-INFO
+src/hausacare_safe.egg-info/SOURCES.txt
+src/hausacare_safe.egg-info/dependency_links.txt
+src/hausacare_safe.egg-info/top_level.txt
+tests/test_phase1_phase2_integration.py

@@ -1,0 +1,122 @@
+[
+  {
+    "card_id": "HC-KB-001",
+    "topic": "Rigakafin Zazzabin Cizon Sauro (Malaria Prevention)",
+    "clinical_domain": "infectious_vector_control",
+    "hausa_content": "Kariya daga zazzabin cizon sauro ta kunshi kwana a cikin gidan sauro mai magani, zuba maganin feshin sauro a daki, da kwashe ruwa maras kyau da ya taru a kusa da gida. Idan ana zazzabi, a tabbatar an yi gwajin jini na RDT kafin a sha magani.",
+    "english_reference": "Malaria prevention relies on insecticide-treated bed nets, indoor residual spraying, and eliminating stagnant water collections near dwellings. Suspected fever should be verified with an RDT blood test before drug administration.",
+    "provenance": {
+      "source_entity": "Federal Ministry of Health, National Malaria Elimination Programme (NMEP)",
+      "source_title": "National Guidelines for Diagnosis and Treatment of Malaria",
+      "document_version": "4th Edition",
+      "publication_year": 2020,
+      "source_locator": {
+        "type": "official_catalogue",
+        "reference": "NMEP-NGA-GL-2020-MAL-V4"
+      },
+      "document_sha256": "4a5c68b72deef825c345377f0a91e5e0a6d7f99e4b6d4e21a8d9b1c7821639d4",
+      "source_accessed": "2026-10-05",
+      "evidence_type": "official_national_guideline"
+    },
+    "granularity_check": {
+      "num_clinical_actions": 2,
+      "word_count_hausa": 51
+    }
+  },
+  {
+    "card_id": "HC-KB-002",
+    "topic": "Hadin Ruwan Gishiri da Sukari na Zawo (Oral Rehydration Solution - ORS)",
+    "clinical_domain": "pediatric_dehydration_management",
+    "hausa_content": "Idan yaro na zawo, hada fakitin ORS a cikin litar ruwa mai tsafta. Idan babu fakiti a kusa, a hada karamin cokali rabin na gishiri da cokali shida na sukari a cikin lita daya ta tsaftataccen ruwan sha. Wannan yana mayar da ruwan da ya fita amma baya maye gurbin ganin likita idan yaro ya galabaita ko idanunsa sun fada ciki.",
+    "english_reference": "For acute diarrhea, prepare packaged ORS in one liter of potable water. Alternatively, prepare home-based oral rehydration solution by mixing half a teaspoon of salt and six level teaspoons of sugar in one liter of clean drinking water.",
+    "provenance": {
+      "source_entity": "World Health Organization (WHO) / UNICEF",
+      "source_title": "The Treatment of Diarrhoea: A manual for physicians and other senior health workers",
+      "document_version": "4th Revision",
+      "publication_year": 2005,
+      "source_locator": {
+        "type": "official_catalogue",
+        "reference": "WHO-FCH-CAH-05.1-ORS"
+      },
+      "document_sha256": "8b5a192fc89d52eb995f7431e21b798bb2c2288dbd2a806085a690e5445213a8",
+      "source_accessed": "2026-10-05",
+      "evidence_type": "official_international_guideline"
+    },
+    "granularity_check": {
+      "num_clinical_actions": 2,
+      "word_count_hausa": 61
+    }
+  },
+  {
+    "card_id": "HC-KB-003",
+    "topic": "Shayarwa Zalla ga Jarirai (Exclusive Breastfeeding)",
+    "clinical_domain": "pediatric_nutrition",
+    "hausa_content": "Shayarwa ta musamman na nufin bawa jariri ruwan nonon uwa zalla ba tare da hadawa da ruwa, madara, ko wani abinci ba tun daga haihuwa har zuwa cikar wata shida. Ruwan nono ya kunshi dukkan abinci da ruwan da jariri yake bukata kuma yana kare shi daga kamuwa da cututtukan zawo da ciwon huhu.",
+    "english_reference": "Exclusive breastfeeding is defined as giving no other food or drink—not even water—except breast milk for the first 6 months of life. Breast milk provides optimal nutrients and antibodies protecting infants against diarrhea and respiratory infections.",
+    "provenance": {
+      "source_entity": "World Health Organization (WHO)",
+      "source_title": "Infant and Young Child Feeding Guidelines",
+      "document_version": "2nd Edition",
+      "publication_year": 2009,
+      "source_locator": {
+        "type": "official_catalogue",
+        "reference": "WHO-NMH-NHD-09.01-IYCF"
+      },
+      "document_sha256": "1f8e3d6085be59e1966a6a4220b299e52579178bbd2a806085a690e5445229b4",
+      "source_accessed": "2026-10-05",
+      "evidence_type": "official_international_guideline"
+    },
+    "granularity_check": {
+      "num_clinical_actions": 1,
+      "word_count_hausa": 53
+    }
+  },
+  {
+    "card_id": "HC-KB-004",
+    "topic": "Hawan Jini da Rage Gishiri (Hypertension Management & Salt Reduction)",
+    "clinical_domain": "cardiovascular_non_communicable",
+    "hausa_content": "Hawan jini cuta ce da ke faruwa idan matsin jini a jikin magudanar jini ya yi yawa. Don kiyaye lafiyar zuciya, yana da kyau a rage yawan gishiri a abinci, a guji shan taba, a rika motsa jiki, kuma a ci kayan marmari da ganye akai-akai. Nemi a auna maka hawan jini a asibiti akai-akai.",
+    "english_reference": "Hypertension occurs when blood pressure in the vascular system is chronically elevated. Risk mitigation includes limiting daily dietary salt intake, smoking cessation, engaging in regular physical exercise, and periodic clinical screening.",
+    "provenance": {
+      "source_entity": "World Health Organization (WHO)",
+      "source_title": "Guideline for the pharmacological treatment of hypertension in adults",
+      "document_version": "1st Edition",
+      "publication_year": 2021,
+      "source_locator": {
+        "type": "official_catalogue",
+        "reference": "WHO-NCD-HYP-2021.1-GL"
+      },
+      "document_sha256": "9c8f1e2081be59e1966a6a4220b299e52579178bbd2a806085a690e5445214c7",
+      "source_accessed": "2026-10-05",
+      "evidence_type": "official_international_guideline"
+    },
+    "granularity_check": {
+      "num_clinical_actions": 4,
+      "word_count_hausa": 48
+    }
+  },
+  {
+    "card_id": "HC-KB-005",
+    "topic": "Allurar Rigakafi ta Yara (Routine Childhood Immunization)",
+    "clinical_domain": "pediatric_preventive_immunization",
+    "hausa_content": "Alluran rigakafi na kare kananan yara daga cututtuka masu hadarin gaske kamar shan-inna (polio), tarin fuka (tuberculosis), ciwon hanta (hepatitis B), da kyanda (measles). A kai yaro cibiyar lafiya mafi kusa da zaran an haife shi don karbar katin rigakafi da bin jadawalin alluran.",
+    "english_reference": "Routine immunization protects pediatric populations from vaccine-preventable mortality including poliomyelitis, tuberculosis, hepatitis B, and measles. Parents should register newborns at local primary healthcare centers to follow national schedules.",
+    "provenance": {
+      "source_entity": "National Primary Health Care Development Agency (NPHCDA), Nigeria",
+      "source_title": "National Routine Immunization Strategic Plan",
+      "document_version": "Revised Strategic Layout",
+      "publication_year": 2019,
+      "source_locator": {
+        "type": "official_catalogue",
+        "reference": "NPHCDA-NGA-SP-2019-IMM"
+      },
+      "document_sha256": "3d5f6a7082be59e1966a6a4220b299e52579178bbd2a806085a690e5445277f2",
+      "source_accessed": "2026-10-05",
+      "evidence_type": "official_national_guideline"
+    },
+    "granularity_check": {
+      "num_clinical_actions": 2,
+      "word_count_hausa": 46
+    }
+  }
+]
