@@ -1,3 +1,6 @@
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+sys.path.insert(0, os.path.join(os.path.abspath(os.path.dirname(__file__)), "src"))
 """
 HausaCare Voice - Interactive Gradio Interface
 Connects microphone/audio input to the audited HausaCare-Safe pipeline.
