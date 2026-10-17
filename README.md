@@ -6,7 +6,7 @@
 [![Live Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live_Space-yellow)](https://huggingface.co/spaces/misalisu-ai/natlas-guard-demo)
 [![Runtime](https://img.shields.io/badge/CPU_Runtime-GGUF_Q4__K__M_(8.0_t%2Fs)-brightgreen)](#4-quantized-cpu-runtime-profile-ncair1n-atlas-8b)
 
-**Author:** Muhammad Salisu Ibrahim  
+**Author:** Muhammad Ibrahim Salisu 
 **Organization:** AMGScale AI LTD  
 **Challenge:** National AI Innovation Challenge (NAIC 2026) — *Innovation & Enterprise / PS1: Developer Infrastructure*  
 **Live Interactive Workbench:** [Hugging Face Space (`misalisu-ai/natlas-guard-demo`)](https://huggingface.co/spaces/misalisu-ai/natlas-guard-demo)
